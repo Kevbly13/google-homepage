@@ -1,0 +1,3 @@
+*** Google-Homepage ReadMe File ***
+This is really the first project, in The_Odin_Project.
+It has been very difficult to even upload it to GitHub, so we'll see...
